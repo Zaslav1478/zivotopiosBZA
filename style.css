@@ -1,0 +1,72 @@
+.modry {
+  height: 20px;
+  width: 20px;
+  background-color: blue;
+  position: relative;
+  top: 85px;
+  left: 170px;
+}
+.zeleny {
+  width: 20px;
+  height: 20px;
+  background-color: green;
+  position: relative;
+  top: 85px;
+  left: 170px;
+}
+.cerveny {
+  width: 20px;
+  height: 20px;
+  background-color: red;
+  position: relative;
+  top: 85px;
+  left: 170px;
+}
+.hnedy {
+  width: 20px;
+  height: 20px;
+  background-color: brown;
+  position: relative;
+  top: 57px;
+  left: 170px;
+}
+
+h1 {
+  font-size: 120px;
+  text-shadow: 2px 2px 2px blue;
+  text-align: left;
+  font-style: italic;
+  position: relative;
+  left: 250px;
+}
+.container {
+  font-size: 15px;
+  position: relative;
+  left: 200px;
+}
+.bz {
+  margin: 30px;
+  width: 250px;
+  border-radius: 30%;
+  float: right;
+  box-shadow: 10px 5px 7px blue;
+  position: relative;
+  top: -100px;
+  left: -400px;
+}
+h2 {
+  font-size: 30px;
+  position: relative;
+  left: 200px;
+}
+h3 {
+  font-size: 30px;
+  position: relative;
+  left: 200px;
+}
+ul,
+ol {
+  font-size: 15px;
+  position: relative;
+  left: 200px;
+}
